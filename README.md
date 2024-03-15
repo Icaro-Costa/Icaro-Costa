@@ -1,7 +1,8 @@
+[![Blog](https://th.bing.com/th/id/OIP.sA9Fxv3VFTSUBf9h1Zy6ZgAAAA?rs=1&pid=ImgDetMain).](https://www.youtube.com/watch?v=ZH-ANdag4cI)
+
 ### Olá! Eu sou o Icaro Costa  👋
 
 Cursando: Analise e Desenvolvimento de Sistemas
-
 
 Desenvolvedor de Jogos em aprendizado.
 
