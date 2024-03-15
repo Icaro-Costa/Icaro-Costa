@@ -1,5 +1,3 @@
-[![Blog](https://th.bing.com/th/id/R.c5c67952a3a87c237d5889644c6963e9?rik=mnaYq94A32TIOg&pid=ImgRaw&r=0)
-
 ### Olá! Eu sou o Icaro Costa  👋
 
 Cursando: Analise e Desenvolvimento de Sistemas
