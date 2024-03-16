@@ -13,8 +13,8 @@
 <div  align="center" >
   
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,lua" />
+  <a href="https://github.com/Icaro-Costa">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,lua,linux,visualstudio,vscode,windows,." />
   </a>
 </p>
 
@@ -23,13 +23,21 @@
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,nodejs" />
+    <img src="https://skillicons.dev/icons?i=java,html,nodejs,androidstudio,unity," />
+  </a>
+</p>
+<h2 align="center" >🤓 Para Estudar🤓</h2>
+<div  align="center" >
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,html,nodejs,androidstudio," />
   </a>
 </p>
 
 <h2 align="center" >🎮 Redes Sociais 🎮</h2>
 <div  align="center" >
 
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white).](https://www.instagram.com/icarusfl_.13_/)
-[![Blog](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198996786257/)
+[![Blog](https://skillicons.dev/icons?i=instagram).](https://www.instagram.com/icarusfl_.13_/)
+[![Blog](https://skillicons.dev/icons?i=discord).](https://www.instagram.com/icarusfl_.13_/)
 
