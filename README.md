@@ -1,24 +1,35 @@
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;Eu+sou+o+Icaro+Costa!;" />
+</h1>
 
 
-### Olá! Eu sou o Icaro Costa  👋
+<div  align="center" >
+  - 🔭 Cursando: Analise e Desenvolvimento de Sistemas ...
+  <br>
+- 🌱 Desenvolvedor de Jogos em aprendizado ...
+</div>
 
-Cursando: Analise e Desenvolvimento de Sistemas
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<div  align="center" >
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,lua" />
+  </a>
+</p>
 
-Desenvolvedor de Jogos em aprendizado.
+<h2 align="center" >🤓 Estudando no momento 🤓</h2>
+<div  align="center" >
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,html,nodejs" />
+  </a>
+</p>
 
+<h2 align="center" >🎮 Redes Sociais 🎮</h2>
+<div  align="center" >
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white).](https://www.instagram.com/icarusfl_.13_/)
-
 [![Blog](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198996786257/)
 
-
-### 🚀 Linguagens que eu uso no meu dia:
-[![Blog](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white).]()
-
-
-[![Blog](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white).](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/)
-
-
-
-
-![Blog](https://www.animeclick.it/immagini/anime/Ben_10/gallery_original/Ben_10-5e0f420adf79e.jpg)
