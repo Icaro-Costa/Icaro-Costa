@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<h2 align="center" >🤓 Estudando no momento 🤓</h2>
+<h2 align="center" >👨‍💻 Estudando no momento 👨‍💻</h2>
 <div  align="center" >
   
 <p align="center">
