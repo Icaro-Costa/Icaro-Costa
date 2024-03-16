@@ -31,7 +31,7 @@
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,nodejs,androidstudio," />
+    <img src="https://skillicons.dev/icons?i=arduino,blender,py" />
   </a>
 </p>
 
@@ -39,5 +39,5 @@
 <div  align="center" >
 
 [![Blog](https://skillicons.dev/icons?i=instagram).](https://www.instagram.com/icarusfl_.13_/)
-[![Blog](https://skillicons.dev/icons?i=discord).](https://www.instagram.com/icarusfl_.13_/)
+[![Blog](https://skillicons.dev/icons?i=discord).]()
 
