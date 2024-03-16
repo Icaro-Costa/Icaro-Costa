@@ -1,4 +1,4 @@
-[![Blog](https://www.animeclick.it/immagini/anime/Ben_10/gallery_original/Ben_10-5e0f420adf79e.jpg)
+
 
 ### Olá! Eu sou o Icaro Costa  👋
 
@@ -18,3 +18,7 @@ Desenvolvedor de Jogos em aprendizado.
 
 [![Blog](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white).](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/)
 
+
+
+
+![Blog](https://www.animeclick.it/immagini/anime/Ben_10/gallery_original/Ben_10-5e0f420adf79e.jpg)
