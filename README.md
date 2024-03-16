@@ -1,7 +1,8 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;Eu+sou+o+Icaro+Costa!;" />
 </h1>
-
+<img src="https://komarev.com/ghpvc/?username=Icaro-Costa&label=Profile%20views&color=0e12b6&style=flat" alt="matmjr" /> 
+</p>
 
 <div  align="center" >
   - 🔭 Cursando: Analise e Desenvolvimento de Sistemas ...
@@ -41,3 +42,10 @@
 [![Blog](https://skillicons.dev/icons?i=instagram).](https://www.instagram.com/icarusfl_.13_/)
 [![Blog](https://skillicons.dev/icons?i=discord).]()
 
+
+<h3 align="left">Contatos:</h3>
+<p align="center">
+    <a href="mailto:Icaroleo486@gmail.com">
+        <img alt="Email" src="https://img.shields.io/badge/Email-Icaroleo486@gmail.com-purple?style=flat&logo=gmail">
+    </a>
+</p>
