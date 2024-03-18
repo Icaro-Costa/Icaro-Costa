@@ -40,6 +40,8 @@
 <div  align="center" >
 
 [![Blog](https://skillicons.dev/icons?i=instagram).](https://www.instagram.com/icarusfl_.13_/)
+
+
 [![Blog](https://skillicons.dev/icons?i=discord).]()
 
 
@@ -49,3 +51,5 @@
         <img alt="Email" src="https://img.shields.io/badge/Email-Icaroleo486@gmail.com-purple?style=flat&logo=gmail">
     </a>
 </p>
+
+[![Blog](https://static.wikia.nocookie.net/watchdogscombined/images/a/a9/%28Un%29Lawful_%28Dis%29Order.gif/revision/latest?cb=20201014010145)
