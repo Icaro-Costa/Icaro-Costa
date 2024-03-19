@@ -39,10 +39,8 @@
 <h2 align="center" >🎮 Redes Sociais 🎮</h2>
 <div  align="center" >
 
-[![Blog](https://skillicons.dev/icons?i=instagram).](https://www.instagram.com/icarusfl_.13_/)
-
-
-[![Blog](https://skillicons.dev/icons?i=discord).]()
+[![Blog](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/icarusfl_.13_/)
+![Blog](https://skillicons.dev/icons?i=discord)
 
 
 <h3 align="left">Contatos:</h3>
