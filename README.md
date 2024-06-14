@@ -24,7 +24,7 @@
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,nodejs,androidstudio,unity," />
+    <img src="https://skillicons.dev/icons?i=c,html,css,vscode,windows,." />
   </a>
 </p>
 <h2 align="center" >🤓 Para Estudar🤓</h2>
