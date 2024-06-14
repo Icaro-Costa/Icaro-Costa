@@ -15,7 +15,7 @@
   
 <p align="center">
   <a href="https://github.com/Icaro-Costa">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,lua,linux,visualstudio,vscode,windows,." />
+    <img src="https://skillicons.dev/icons?i=c,html,Css,linux,visualstudio,vscode,windows,." />
   </a>
 </p>
 
