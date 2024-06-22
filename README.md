@@ -1,5 +1,5 @@
 <h1 align="center">
-</h1><h2 align="center" >🎮 Eu sou Icaro Costa!! 🎮</h2>
+</h1><h1 align="center" >🎮 Eu sou Icaro Costa!! 🎮</h1>
 <img src="https://komarev.com/ghpvc/?username=Icaro-Costa&label=Profile%20views&color=0e12b6&style=flat" alt="matmjr" /> 
 </p>
 
