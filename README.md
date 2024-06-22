@@ -54,5 +54,3 @@
   <img alt="my langs" aling="top-left" width=36% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icaro-Costa&exclude_repo=Minimalistic-Arch-setup,Codistopia-Monitoria&layout=compact&theme=tokyonight"/>
   <img alt="dancingPenguin" aling="top-left" width=15% src="https://media.tenor.com/0hEQxK9tC7UAAAAi/club-penguin-dance.gif">
 </div>
-
-[![Blog](https://static.wikia.nocookie.net/watchdogscombined/images/a/a9/%28Un%29Lawful_%28Dis%29Order.gif/revision/latest?cb=20201014010145)
