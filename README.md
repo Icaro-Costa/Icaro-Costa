@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=01F700&random=false&width=435&lines=Eu+sou+Icaro+Costa!!;"/>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=01F700&random=false&width=435&lines=Eu+sou+Icaro+Costa!!;"/>
 </h1>
 <img src="https://komarev.com/ghpvc/?username=Icaro-Costa&label=Profile%20views&color=0e12b6&style=flat" alt="matmjr" /> 
 </p>
