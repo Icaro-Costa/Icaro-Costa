@@ -42,6 +42,12 @@
 [![Blog](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/icarusfl_.13_/)
 ![Blog](https://skillicons.dev/icons?i=discord)
 
+<div>
+  <img alt="my stats" aling="top-left" width=47% src="https://github-readme-stats.vercel.app/api?username=Icaro-Costa&show_icons=true&theme=tokyonight"/>
+  <img alt="my langs" aling="top-left" width=36% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icaro-Costa&exclude_repo=Minimalistic-Arch-setup,Codistopia-Monitoria&layout=compact&theme=tokyonight"/>
+  <img alt="dancingPenguin" aling="top-left" width=15% src="https://media.tenor.com/0hEQxK9tC7UAAAAi/club-penguin-dance.gif">
+</div>
+
 
 <h3 align="left">Contatos:</h3>
 <p align="center">
