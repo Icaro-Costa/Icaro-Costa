@@ -42,7 +42,7 @@
 [![Blog](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/icarusfl_.13_/)
 ![Blog](https://skillicons.dev/icons?i=discord)
 
-<h3 align="left">Contatos:</h3>
+<h3 align="center">Contatos:</h3>
 <p align="center">
     <a href="mailto:Icaroleo486@gmail.com">
         <img alt="Email" src="https://img.shields.io/badge/Email-Icaroleo486@gmail.com-purple?style=flat&logo=gmail">
