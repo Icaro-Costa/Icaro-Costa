@@ -5,8 +5,6 @@
 
 <div  align="center" >
   - 🔭 Cursando: Analise e Desenvolvimento de Sistemas ...
-  <br>
-- 🌱 Desenvolvedor de Jogos em aprendizado ...
 </div>
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
