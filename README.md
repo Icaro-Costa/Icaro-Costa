@@ -1,7 +1,7 @@
 <h1 align="center">
 </h1>
 
-<h1 align="center" >Oi! Sou Icaro Costa, desenvolvedor de software e hardware, entusiasta por criar soluções tecnológicas inovadoras.</h1>
+<h1 align="center" >Oi! Sou Icaro Costa, Desenvolvedor de software e hardware, entusiasta por criar soluções tecnológicas inovadoras.</h1>
 </div>
 <div>
   <img alt="my stats" aling="top-left" width=47% src="https://github-readme-stats.vercel.app/api?username=Icaro-Costa&show_icons=true&theme=tokyonight"/>
