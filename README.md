@@ -55,6 +55,8 @@ Hobby   : capturar bugs como se fossem pokémon
 
 ## 🛠️ Tecnologias
 
+<img src="gastly.gif" alt="gastly" width="180" align="right" />
+
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-2C0E4E?style=for-the-badge&logo=react&logoColor=CE93D8)
