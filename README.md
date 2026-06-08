@@ -96,11 +96,23 @@ icaro@arch:~$ ls ~/projetos/ --long
 ```
 
 ```
-drwxr-xr-x  🧠 neuro-mentor/         → plataforma educacional com IA (Next.js · ASP.NET · PostgreSQL · Claude API)
-drwxr-xr-x  🎮 portfolio-interativo/  → portfólio com terminal, RAG e jogos (Next.js · Python · LangChain)
-drwxr-xr-x  ✅ focus-flow/            → produtividade com dashboard e auth  (React · Vite · TypeScript · Supabase)
-drwxr-xr-x  🧮 knn-em-c/             → kNN do zero em C com dataset Iris   (C · Machine Learning)
+drwxr-xr-x  🧠 porto-digital-case-14/   → NeuroMentor: plataforma educacional com IA         [público]
+                                           Next.js 15 · ASP.NET Core · PostgreSQL · Claude API
+                                           
+drwxr-xr-x  ⚙️  neuromentor-backend/     → Backend C# do NeuroMentor                          [público]
+                                           ASP.NET Core 10 · EF Core · PostgreSQL · Docker
+                                           
+drwxr-xr-x  🥢 OFFBAO/                  → Site para restaurante de bao                        [privado 🔒]
+                                           (stack em segredo... assim como a receita do bao)
 ```
+
+<div align="center">
+
+[![porto-digital-case-14](https://img.shields.io/badge/NeuroMentor-porto--digital--case--14-2C0E4E?style=for-the-badge&logo=github&logoColor=CE93D8)](https://github.com/Icaro-Costa/porto-digital-case-14)
+[![neuromentor-backend](https://img.shields.io/badge/NeuroMentor_Backend-neuromentor--backend-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Icaro-Costa/neuromentor-backend)
+[![OFFBAO](https://img.shields.io/badge/OFFBAO-🔒_privado-2C0E4E?style=for-the-badge&logo=github&logoColor=CE93D8)](https://github.com/Icaro-Costa/OFFBAO)
+
+</div>
 
 ---
 
