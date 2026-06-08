@@ -46,6 +46,10 @@ Objetivo: transformar ideias em produtos reais
 ```
 
 </td>
+<td valign="top">
+<img src="https://media.tenor.com/NiPiQnQSj_4AAAAM/tux-linux-jump.gif" alt="tux jump" width="130" /><br/>
+<img src="https://media.tenor.com/uuqZuwwOIeQAAAAM/linux-tux.gif" alt="tux linux" width="130" />
+</td>
 </tr>
 </table>
 
