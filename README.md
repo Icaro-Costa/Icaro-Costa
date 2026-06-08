@@ -137,11 +137,11 @@ drwxr-xr-x  🧮 knn-em-c/             → kNN do zero em C com dataset Iris   (
 
 ---
 
-## 🐍 Contribuições
+## 🏙️ Contribuições
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Icaro-Costa/Icaro-Costa/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/Icaro-Costa/Icaro-Costa/output/profile-night-rainbow.svg" alt="3D contribution graph" />
 
 </div>
 

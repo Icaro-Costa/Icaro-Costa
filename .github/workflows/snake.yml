@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate 3D Contribution Graph
 
 on:
   schedule:
@@ -10,17 +10,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Icaro-Costa
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+      - uses: actions/checkout@v3
 
-      - name: Push Snake
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Icaro-Costa
+
+      - name: Push 3D Graph
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: profile-3d-contrib
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
