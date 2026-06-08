@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C0E4E,100:9B59B6&height=200&section=header&text=Icaro%20Costa&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20AI%20Engineer%20%7C%20Arch%20Linux%20user%20btw&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2C0E4E,100:9B59B6&height=200&section=header&text=Icaro%20Costa&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20AI%20Engineer%20%7C%20Arch%20Linux%20user%20btw&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<img src="https://media.tenor.com/kceEF-SGKagAAAAM/magic-purple-flame.gif" width="100%" height="60" />
 
 <img 
   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=CE93D8&center=true&vCenter=true&width=750&lines=icaro%40arch%3A~%24+neofetch;icaro%40arch%3A~%24+sudo+pacman+-Syu+knowledge;Um+Psyduck+selvagem+apareceu+no+seu+código!;React+%7C+Next.js+%7C+TypeScript+%7C+C%23;IA+%7C+RAG+%7C+LangChain+%7C+Claude+API;Gotta+build+%27em+all+%F0%9F%9F%A3" 
@@ -160,6 +162,11 @@ drwxr-xr-x  OFFBAO/                  -> Site para restaurante de bao            
 ---
 
 ## 💻 Terminal
+
+<div align="center">
+<img src="https://media.tenor.com/ShphQRiwlEgAAAAM/matrix-code.gif" width="100%" />
+</div>
+
 
 ```bash
 icaro@arch:~$ whoami
