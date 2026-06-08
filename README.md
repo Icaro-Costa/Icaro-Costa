@@ -96,14 +96,14 @@ icaro@arch:~$ ls ~/projetos/ --long
 ```
 
 ```
-drwxr-xr-x  🧠 porto-digital-case-14/   → NeuroMentor: plataforma educacional com IA         [público]
-                                           Next.js 15 · ASP.NET Core · PostgreSQL · Claude API
-                                           
-drwxr-xr-x  ⚙️  neuromentor-backend/     → Backend C# do NeuroMentor                          [público]
-                                           ASP.NET Core 10 · EF Core · PostgreSQL · Docker
-                                           
-drwxr-xr-x  🥢 OFFBAO/                  → Site para restaurante de bao                        [privado 🔒]
-                                           (stack em segredo... assim como a receita do bao)
+drwxr-xr-x  porto-digital-case-14/   -> NeuroMentor: plataforma educacional com IA   [publico]
+                                         Next.js 15 . ASP.NET Core . PostgreSQL . Claude API
+
+drwxr-xr-x  neuromentor-backend/     -> Backend C# do NeuroMentor                    [publico]
+                                         ASP.NET Core 10 . EF Core . PostgreSQL . Docker
+
+drwxr-xr-x  OFFBAO/                  -> Site para restaurante de bao                 [privado]
+                                         (stack em segredo... assim como a receita do bao)
 ```
 
 <div align="center">
@@ -177,9 +177,9 @@ langchain 0.x      [instalado]
 psyduck 1.0        [instalado — atualização pendente: headache_cure]
 
 icaro@arch:~$ ps aux | grep icaro
-icaro   🔭 aprendendo   → sempre rodando
-icaro   🏗️  construindo  → next.js + .net + ia
-icaro   🐧 arch linux   → btw
+icaro   aprendendo   -> sempre rodando
+icaro   construindo  -> next.js + .net + ia
+icaro   arch linux   -> btw
 
 icaro@arch:~$ █
 ```
