@@ -25,7 +25,8 @@ icaro@linux:~$ neofetch
 <table border="0" cellpadding="10">
 <tr>
 <td valign="top">
-<img src="https://media.tenor.com/0hEQxK9tC7UAAAAi/club-penguin-dance.gif" alt="club penguin dance" width="130" />
+<img src="https://media.tenor.com/0hEQxK9tC7UAAAAi/club-penguin-dance.gif" alt="club penguin dance" width="130" /><br/>
+<img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" alt="tux linux typing" width="130" />
 </td>
 <td valign="top">
 
