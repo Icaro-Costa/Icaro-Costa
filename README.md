@@ -44,6 +44,7 @@ Hobby   : capturar bugs como se fossem pokémon
 "Dê poder ao homem e verá quem ele realmente é."
 ```
 
+<img src="gengar.gif" alt="gengar" width="120" />
 </td>
 <td valign="middle">
 <img src="psyduck-pokémon.gif" alt="psyduck laptop fire" width="220" />
@@ -119,23 +120,8 @@ drwxr-xr-x  OFFBAO/                  -> Site para restaurante de bao            
 ## 📊 Stats
 
 <div align="center">
-<img src="gengar.gif" alt="gengar" width="160" />
-</div>
-
-<div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Icaro-Costa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=CE93D8&icon_color=9B59B6&ring_color=9B59B6" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icaro-Costa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=CE93D8" />
-</div>
-
-<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Icaro-Costa&theme=tokyonight&hide_border=true&ring=9B59B6&fire=CE93D8&currStreakLabel=CE93D8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Icaro-Costa&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
 
 </div>
 
