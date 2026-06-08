@@ -22,7 +22,12 @@
 icaro@linux:~$ neofetch
 ```
 
-<img src="https://media.tenor.com/0hEQxK9tC7UAAAAi/club-penguin-dance.gif" alt="club penguin dance" width="120" align="right" />
+<table border="0" cellpadding="10">
+<tr>
+<td valign="top">
+<img src="https://media.tenor.com/0hEQxK9tC7UAAAAi/club-penguin-dance.gif" alt="club penguin dance" width="130" />
+</td>
+<td valign="top">
 
 ```
 icaro@linux
@@ -38,6 +43,10 @@ IA: LangChain · RAG · Claude API
 Hardware: robótica + sistemas embarcados
 Objetivo: transformar ideias em produtos reais
 ```
+
+</td>
+</tr>
+</table>
 
 ```bash
 icaro@linux:~$ cat /etc/motd
