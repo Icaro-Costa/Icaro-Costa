@@ -140,7 +140,7 @@ icaro@linux:~$ cat /etc/motd
 
 <div align="center">
 
-![snake gif](https://github.com/Icaro-Costa/Icaro-Costa/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Icaro-Costa/Icaro-Costa/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
 
