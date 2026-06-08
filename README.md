@@ -136,11 +136,11 @@ icaro@linux:~$ cat /etc/motd
 
 ---
 
-## 🐍 Contribuições
+## 🐧 Contribuições
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Icaro-Costa/Icaro-Costa/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://media.tenor.com/0hEQxK9tC7UAAAAi/club-penguin-dance.gif" alt="club penguin dance" width="150" />
 
 </div>
 
