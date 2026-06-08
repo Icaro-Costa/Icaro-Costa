@@ -22,19 +22,21 @@
 icaro@linux:~$ neofetch
 ```
 
+<img src="https://media.tenor.com/0hEQxK9tC7UAAAAi/club-penguin-dance.gif" alt="club penguin dance" width="120" align="right" />
+
 ```
-        #####          icaro@linux
-       #######         -----------
-       ##O#O##         OS: Arch Linux x86_64 (btw)
-       #######         Kernel: 6.x.x-arch
-     ###########       Shell: zsh + oh-my-zsh
-    #############      DE: nenhum. só terminal mesmo
-   ###############     Editor: kate (KDE tem classe)
-   ####  #  #####      Uptime: construindo há anos
-   ##          ##      Linguagens: C, Python, TypeScript, C#
-    ###########        IA: LangChain · RAG · Claude API
-                       Hardware: robótica + sistemas embarcados
-                       Objetivo: transformar ideias em produtos reais
+icaro@linux
+-----------
+OS: Arch Linux x86_64 (btw)
+Kernel: 6.x.x-arch
+Shell: zsh + oh-my-zsh
+DE: nenhum. só terminal mesmo
+Editor: kate (KDE tem classe)
+Uptime: construindo há anos
+Linguagens: C, Python, TypeScript, C#
+IA: LangChain · RAG · Claude API
+Hardware: robótica + sistemas embarcados
+Objetivo: transformar ideias em produtos reais
 ```
 
 ```bash
@@ -136,11 +138,11 @@ icaro@linux:~$ cat /etc/motd
 
 ---
 
-## 🐧 Contribuições
+## 🐍 Contribuições
 
 <div align="center">
 
-<img src="https://media.tenor.com/0hEQxK9tC7UAAAAi/club-penguin-dance.gif" alt="club penguin dance" width="150" />
+<img src="https://raw.githubusercontent.com/Icaro-Costa/Icaro-Costa/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
 
