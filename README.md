@@ -118,17 +118,10 @@ drwxr-xr-x  OFFBAO/                  -> Site para restaurante de bao            
 
 ## 📊 Stats
 
-<table border="0" cellpadding="10">
-<tr>
-<td valign="middle">
-<img src="gengar.gif" alt="gengar" width="160" />
-</td>
-<td valign="middle">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Icaro-Costa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=CE93D8&icon_color=9B59B6&ring_color=9B59B6" /><br/>
+<img src="gengar.gif" alt="gengar" width="160" align="left" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Icaro-Costa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=CE93D8&icon_color=9B59B6&ring_color=9B59B6" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icaro-Costa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=CE93D8" />
-</td>
-</tr>
-</table>
 
 <div align="center">
 
