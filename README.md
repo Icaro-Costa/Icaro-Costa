@@ -44,7 +44,6 @@ Hobby   : capturar bugs como se fossem pokémon
 "Dê poder ao homem e verá quem ele realmente é."
 ```
 
-<img src="gengar.gif" alt="gengar" width="120" />
 </td>
 <td valign="middle">
 <img src="psyduck-pokémon.gif" alt="psyduck laptop fire" width="220" />
@@ -121,7 +120,9 @@ drwxr-xr-x  OFFBAO/                  -> Site para restaurante de bao            
 
 <div align="center">
 
+<img src="gengar.gif" alt="gengar" width="130" align="left" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Icaro-Costa&theme=tokyonight&hide_border=true&ring=9B59B6&fire=CE93D8&currStreakLabel=CE93D8" />
+<br clear="all" />
 
 </div>
 
