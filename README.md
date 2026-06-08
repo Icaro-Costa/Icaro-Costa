@@ -44,6 +44,8 @@ Hobby   : capturar bugs como se fossem pokémon
 "Dê poder ao homem e verá quem ele realmente é."
 ```
 
+<img src="https://media.tenor.com/0hEQxK9tC7UAAAAi/club-penguin-dance.gif" alt="club penguin dance" width="120" />
+<img src="gengar.gif" alt="gengar" width="120" />
 </td>
 <td valign="middle">
 <img src="psyduck-pokémon.gif" alt="psyduck laptop fire" width="220" />
